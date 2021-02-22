@@ -43,7 +43,7 @@ h4 {
 }
 
 a {
-  color: #292929;
+  color: blue;
   text-decoration: none !important;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -121,7 +121,7 @@ p {
 }
 
 .section-title {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
 }
 
 .section-title h2 {
@@ -151,8 +151,8 @@ p {
 }
 
 .paddsection {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .paddsections {
@@ -327,7 +327,7 @@ nav ul li a {
 #services {
   background: #f7f7f7;
   position: relative;
-  padding-bottom: 80px;
+  padding-bottom: 40px;
 }
 
 .owl-item {
